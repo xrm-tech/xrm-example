@@ -1,0 +1,7 @@
+name: XRM-Example
+description: Description for the pack
+version: x.x.x
+author: Name author
+email: author@email.com
+python_versions:
+  - "3"
