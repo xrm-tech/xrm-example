@@ -1,9 +1,0 @@
----
-ref: test_pack
-name: test_pack
-description: A test pack for StackStorm
-keywords:
-  - test
-version: 0.1.0
-python_versions:
-  - "3"
