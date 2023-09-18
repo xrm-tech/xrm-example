@@ -1,7 +1,0 @@
----
-name: "test"
-runner_type: "python_script"
-description: "A test action"
-enabled: true
-entry_point: "test.py"
-parameters: {}
