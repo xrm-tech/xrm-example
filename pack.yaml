@@ -1,9 +1,10 @@
 ---
-ref: test_pack
-name: test_pack
-description: A test pack for XRM
+ref: example_pack
+name: Example pack
+description: Simple pack for XRM example
 keywords:
   - test
+  - example
 version: 0.1.0
 python_versions:
   - "3"
