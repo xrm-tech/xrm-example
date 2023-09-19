@@ -1,7 +1,7 @@
 ---
 name: greet
 pack: example_pack
-runner_type: "local-shell-script"
+runner_type: "python-script"
 description: Greet XRM!
 enabled: true
 entry_point: greet.sh
