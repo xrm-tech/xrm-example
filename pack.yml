@@ -1,11 +1,12 @@
 ---
-ref: test_pack
-name: test_pack
+ref: example_pack
+name: example_pack
 description: A test pack for XRM
 keywords:
   - test
+  - xrm
 version: 0.1.0
 python_versions:
   - "3"
-author : Your Username
-email : your.email@example.com
+author : XRM
+email : info@x-rm.ru
